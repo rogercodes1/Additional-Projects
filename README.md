@@ -12,3 +12,12 @@ Simple landing page illustrating a music plan similar to Spotify or Apple Music.
 * Express.js
 * Bootstrap
 * Responsive Web Design
+
+## Bulletin Board App
+[Github](https://github.com/rogercodes1/bulletin-board-app) | [Live Demo](https://app-bulletin-board.herokuapp.com/)
+
+### Description
+Bulletin Board app allowing you to create, add, and delete post it notes. They are randomly generated.
+#### Built With
+* React.js
+* Bootstrap
