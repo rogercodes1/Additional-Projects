@@ -5,6 +5,7 @@ As I learn new tech it is hard to integrate my full knowledge into every larger 
 ## Langing Page
 [Github](https://github.com/rogercodes1/LandingPage) | [Live Demo](https://landing-pg.herokuapp.com/)
 ### Description
+Simple landing page illustrating a music plan similar to Spotify or Apple Music. 
 
 #### Built With
 * Angular
