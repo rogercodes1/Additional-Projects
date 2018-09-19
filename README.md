@@ -3,8 +3,7 @@ As I learn new tech it is hard to integrate my full knowledge into every larger 
 
 
 ## Langing Page
-[Github](https://github.com/rogercodes1/LandingPage) | [Live Demo](https://landing-pg.herokuapp.com/){:target="_blank"}
-
+[Github](https://github.com/rogercodes1/LandingPage) | [Live Demo](https://landing-pg.herokuapp.com/)
 ### Description
 
 #### Built With
