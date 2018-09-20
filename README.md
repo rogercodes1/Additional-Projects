@@ -21,3 +21,5 @@ Bulletin Board app allowing you to create, add, and delete post it notes. They a
 #### Built With
 * React.js
 * Bootstrap
+* HTML/CSS
+* fetch, Promises
