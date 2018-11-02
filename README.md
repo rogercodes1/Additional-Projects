@@ -6,6 +6,10 @@ As I learn new tech it is hard to integrate my full knowledge into every larger 
 * [Landing Page](https://github.com/rogercodes1/LandingPage) (Angular.js)
 * [Bulletin Board App](https://github.com/rogercodes1/bulletin-board-app)(React.js)
 
+## CLI Projects
+* [Workout CLI](https://github.com/rogercodes1/Workout_CLI_ActiveRecord_Ruby)
+* [Refactored Workout CLI](https://github.com/rogercodes1/Refactored-Ruby-OO-CLI_Workout_Project)
+
 # Lull Mattress - Facebook Landing Page
 ### Description
 Facebook landing page created using a PSD file (Wireframe / Mockup)
